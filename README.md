@@ -1,6 +1,4 @@
-# DEP-task2
-Here's a detailed README file for the task:
-House Price Prediction
+# House Price Prediction
 
 This project involves cleaning, preprocessing, feature engineering, training, and predicting house prices using a given dataset. We use various regression techniques, including Linear Regression, Ridge Regression, and Lasso Regression, to build and fine-tune the model.
 Table of Contents
